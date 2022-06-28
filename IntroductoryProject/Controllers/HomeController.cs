@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace IntroductoryProject.Controllers
 {
@@ -6,7 +7,9 @@ namespace IntroductoryProject.Controllers
     {
         public ViewResult Index()
         {
-            return View("MyView");
+            int hour = DateTime.Now.Hour;
+            string ViewModel = hour < 12 ? "Good morning" : "Good aternoon";
+            return View("MyView",ViewModel);
         }
     }
 }
