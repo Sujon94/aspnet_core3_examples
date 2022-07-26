@@ -1,39 +1,78 @@
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\appsettings.Development.json
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\appsettings.json
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\global.json
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\PartyInvites.exe
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\PartyInvites.deps.json
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\PartyInvites.runtimeconfig.json
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\PartyInvites.runtimeconfig.dev.json
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\PartyInvites.dll
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\PartyInvites.pdb
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\PartyInvites.Views.dll
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\bin\Debug\netcoreapp3.1\PartyInvites.Views.pdb
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.csproj.AssemblyReference.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.AssemblyInfoInputs.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.AssemblyInfo.cs
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.csproj.CoreCompileInputs.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.MvcApplicationPartsAssemblyInfo.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.RazorAssemblyInfo.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.RazorAssemblyInfo.cs
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.TagHelpers.input.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.TagHelpers.output.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.RazorCoreGenerate.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.RazorTargetAssemblyInfo.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.RazorTargetAssemblyInfo.cs
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.Views.pdb
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\staticwebassets\PartyInvites.StaticWebAssets.Manifest.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\staticwebassets\PartyInvites.StaticWebAssets.xml
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.dll
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.pdb
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.genruntimeconfig.cache
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.csproj.CopyComplete
-F:\My Files\Core3\aspnet_core3_examples\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\RsvpForm.cshtml.g.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/appsettings.Development.json
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/appsettings.json
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/global.json
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.exe
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.deps.json
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.runtimeconfig.json
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.runtimeconfig.dev.json
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.dll
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.pdb
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.Views.dll
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.Views.pdb
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.csproj.AssemblyReference.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.AssemblyInfoInputs.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.AssemblyInfo.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.csproj.CoreCompileInputs.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.MvcApplicationPartsAssemblyInfo.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.RazorAssemblyInfo.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.RazorAssemblyInfo.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.TagHelpers.input.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.TagHelpers.output.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.RazorCoreGenerate.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.RazorTargetAssemblyInfo.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.RazorTargetAssemblyInfo.cs
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.Views.pdb
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/staticwebassets/PartyInvites.StaticWebAssets.Manifest.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/staticwebassets/PartyInvites.StaticWebAssets.xml
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.dll
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.pdb
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.genruntimeconfig.cache
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.csproj.CopyComplete
+F:/My Files/Core3/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Home/RsvpForm.cshtml.g.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/appsettings.json
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/global.json
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.deps.json
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.runtimeconfig.json
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.runtimeconfig.dev.json
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.dll
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.pdb
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.Views.dll
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/bin/Debug/netcoreapp3.1/PartyInvites.Views.pdb
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.csprojAssemblyReference.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.AssemblyInfoInputs.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.AssemblyInfo.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.csproj.CoreCompileInputs.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.MvcApplicationPartsAssemblyInfo.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.RazorAssemblyInfo.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.RazorAssemblyInfo.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.TagHelpers.input.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.TagHelpers.output.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.RazorCoreGenerate.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Home/RsvpForm.cshtml.g.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.RazorTargetAssemblyInfo.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.RazorTargetAssemblyInfo.cs
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.Views.pdb
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/staticwebassets/PartyInvites.StaticWebAssets.Manifest.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/staticwebassets/PartyInvites.StaticWebAssets.xml
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.dll
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.pdb
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.genruntimeconfig.cache
+/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/obj/Debug/netcoreapp3.1/PartyInvites.csproj.CopyComplete

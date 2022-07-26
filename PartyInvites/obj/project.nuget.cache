@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TGiMfxtFHhmQBI6ah+S6N9cGuQLFxHfIUjLGcrK5Pi8bj2jh3jLxOx/iR6stDLoSrMeKn4yYmJ4vpbi0MGztcg==",
+  "dgSpecHash": "bDngruIxpoXp7STvnCkgE8zNVJ9OH7zG318QmYPozk7LGg2tWFFZ6UJvL1JER0EdL3Z0crOilwIdPDhKnlDHYA==",
   "success": true,
-  "projectFilePath": "F:\\My Files\\Core3\\aspnet_core3_examples\\PartyInvites\\PartyInvites.csproj",
+  "projectFilePath": "/home/sujon-71/Documents/C#/aspnet_core3_examples/PartyInvites/PartyInvites.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
